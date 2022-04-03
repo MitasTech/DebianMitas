@@ -15,7 +15,8 @@ echo -ne "
 -----------------------------------------------------------------------------------------
                                Automated Debian Linux Installer
 -----------------------------------------------------------------------------------------
-                Scripts are in directory named DebianMitas
+                           Scripts are in directory named DebianMitas
+"
 
 username=$(id -u -n 1000)
 builddir=$(pwd)
